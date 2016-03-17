@@ -1,3 +1,6 @@
+Data splits for the paper: Ji Young Lee\*, Franck Dernoncourt\*, "[Sequential Short-Text Classification with Recurrent and Convolutional Neural Networks](http://arxiv.org/abs/1603.03827)". NAACL 2016. (\* indicates equal contribution)
+
+
 # Train/validation/test split
 
 ## DSTC 4
